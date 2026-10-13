@@ -1,0 +1,15 @@
+# сборка
+build/
+cmake-build-*/
+*.o
+*.out
+*.exe
+a.out
+task*/main
+task*/task*
+
+# IDE
+.vscode/
+.idea/
+*.swp
+.DS_Store
